@@ -2,9 +2,9 @@
   "$schema": "https://mintlify.com/schema.json",
   "name": "Cynex Documentation",
   "colors": {
-    "primary": "#ee7d84",
-    "light": "#ee7d84",
-    "dark": "#ee7d84"
+    "primary": "#2f46ad",
+    "light": "#2f46ad",
+    "dark": "#2f46ad"
   },
   "favicon": "/cynex.png",
   "topbarLinks": [
