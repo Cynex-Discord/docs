@@ -1,6 +1,6 @@
 {
   "$schema": "https://mintlify.com/schema.json",
-"theme": "prism",
+"theme": "quill",
   "name": "Cynex Documentation",
   "colors": {
     "primary": "#ee7d84",
@@ -19,11 +19,6 @@
     "url": "https://www.cynexbot.xyz/invite"
   },
   "anchors": [
-    {
-      "name": "Documentation",
-      "icon": "book-open-cover",
-      "url": "https://docs.cynexbot.xyz/"
-    },
     {
       "name": "Website",
       "icon": "globe",
