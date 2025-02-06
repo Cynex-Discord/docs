@@ -1,22 +1,13 @@
 {
   "$schema": "https://mintlify.com/schema.json",
-"theme": "venus",
+"theme": "prism",
   "name": "Cynex Documentation",
   "colors": {
     "primary": "#ee7d84",
     "light": "#ee7d84",
     "dark": "#ee7d84"
   },
-  "favicon": "/favicon.svg",
-  "colors": {
-    "primary": "#488df8",
-    "light": "#488df8",
-    "dark": "#488df8",
-    "anchors": {
-      "from": "#488df8",
-      "to": "#488df8"
-    }
-  },
+  "favicon": "/cynex.png",
   "topbarLinks": [
     {
       "name": "Support",
@@ -54,14 +45,10 @@
       ]
     },
     {
-      "group": "Essentials",
+      "group": "Plugins",
       "pages": [
-        "essentials/markdown",
-        "essentials/code",
-        "essentials/images",
-        "essentials/settings",
-        "essentials/navigation",
-        "essentials/reusable-snippets"
+        "plugins/moderation",
+        "plugins/audit-logs"
       ]
     },
     {
