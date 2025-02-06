@@ -1,6 +1,5 @@
 {
   "$schema": "https://mintlify.com/schema.json",
-"theme": "mint",
   "name": "Cynex Documentation",
   "colors": {
     "primary": "#ee7d84",
