@@ -1,0 +1,78 @@
+{
+  "$schema": "https://mintlify.com/schema.json",
+"theme": "navy",
+  "name": "Cynex Documentation",
+  "colors": {
+    "primary": "#ee7d84",
+    "light": "#ee7d84",
+    "dark": "#ee7d84"
+  },
+  "favicon": "/favicon.svg",
+  "colors": {
+    "primary": "#488df8",
+    "light": "#488df8",
+    "dark": "#488df8",
+    "anchors": {
+      "from": "#488df8",
+      "to": "#488df8"
+    }
+  },
+  "topbarLinks": [
+    {
+      "name": "Support",
+      "url": "https://www.cynexbot.xyz/discord"
+    }
+  ],
+  "topbarCtaButton": {
+    "name": "Get Started",
+    "url": "https://www.cynexbot.xyz/invite"
+  },
+  "anchors": [
+    {
+      "name": "Documentation",
+      "icon": "book-open-cover",
+      "url": "https://docs.cynexbot.xyz/"
+    },
+    {
+      "name": "Website",
+      "icon": "globe",
+      "url": "https://www.cynexbot.xyz/"
+    },
+    {
+      "name": "Invite",
+      "icon": "link",
+      "url": "https://www.cynexbot.xyz/invite"
+    }
+  ],
+  "navigation": [
+    {
+      "group": "Introduction",
+      "pages": [
+        "getting-started",
+        "frequently-asked",
+        "commands"
+      ]
+    },
+    {
+      "group": "Essentials",
+      "pages": [
+        "essentials/markdown",
+        "essentials/code",
+        "essentials/images",
+        "essentials/settings",
+        "essentials/navigation",
+        "essentials/reusable-snippets"
+      ]
+    },
+    {
+      "group": "Miscellaneous",
+      "pages": [
+        "miscellaneous/user-flags",
+        "miscellaneous/suspensions"
+      ]
+    }
+  ],
+  "footerSocials": {
+    "x": "https://x.com/cynexbot"
+  }
+}
